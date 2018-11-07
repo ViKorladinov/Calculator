@@ -1,0 +1,14 @@
+.lols {
+  width: 81px;
+  height: 70px;
+}
+.calc {
+  padding: 10px;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  border: 1px solid;
+}
